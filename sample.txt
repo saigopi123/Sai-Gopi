@@ -1,5 +1,9 @@
 hello
 world
+<<<<<<< HEAD
 helloasssss
 byesss
 1213124324
+=======
+welcome
+>>>>>>> 66a115b3b383028a7b3fdfd1a2d2e3142ed2d955
